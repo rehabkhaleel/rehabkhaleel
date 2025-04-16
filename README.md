@@ -1,5 +1,18 @@
-# 💫 About Me:
-🎯 GPRM Prompt (Updated):<br><br>Create a professional and engaging GitHub Profile README for a software engineer named Rehab Khaleel.<br>She has 3 years of experience in full-stack web development and is currently pursuing a Bachelor's in Software Engineering (6th semester) at Bahria University, Karachi.<br>She has completed a MERN Stack course from SMIT and has worked on projects like dashboards, portals, real-time chat apps, and assignment submission platforms.<br><br>Her tech stack includes:<br><br>Frontend: React.js, Tailwind CSS, Material UI<br><br>Backend: Node.js, Express.js, .NET<br><br>Database: MongoDB, Firebase<br><br>Other Skills: Git, GitHub, Python (Pandas, NumPy), C#, OOP, REST APIs<br><br>She is also learning Data Science and has an interest in analytics.<br><br>The README should include:<br><br>A friendly and confident bio<br><br>Tech stack with icons<br><br>GitHub stats and streak widgets<br><br>A quote that reflects passion for tech<br><br>Contact and social links (LinkedIn and GitHub)<br><br>Tone should be clean, developer-friendly, and slightly creative—avoid overly flashy elements.
+<h1 align="center">Hi there! 👋 I'm Rehab Khaleel</h1>
+<h3 align="center">Full-Stack Developer | Software Engineering Student | Tech Enthusiast</h3>
+
+<p align="center">
+  👩‍💻 Building meaningful digital experiences <br/>
+  🔍 Exploring the world of data & analytics <br/>
+  🚀 On a mission to turn ideas into impactful software
+</p>
+
+---
+
+💡 *“Code is the closest thing we have to superpowers. I’m here to build, break, and better the world—one commit at a time.”*
+
+---
+
 
 
 ## 🌐 Socials:
